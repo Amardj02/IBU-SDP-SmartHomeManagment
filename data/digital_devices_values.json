@@ -1,0 +1,37 @@
+[
+  {
+    "model": "manage_devices.digitalvalues",
+    "pk": 1,
+    "fields": {
+      "value": true,
+      "device": 1
+    }
+  },
+
+  {
+    "model": "manage_devices.digitalvalues",
+    "pk": 2,
+    "fields": {
+      "value": true,
+      "device": 2
+    }
+  },
+
+  {
+    "model": "manage_devices.digitalvalues",
+    "pk": 3,
+    "fields": {
+      "value": false,
+      "device": 3
+    }
+  },
+
+  {
+    "model": "manage_devices.digitalvalues",
+    "pk": 4,
+    "fields": {
+      "value": false,
+      "device": 4
+    }
+  }
+]

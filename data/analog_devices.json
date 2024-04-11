@@ -1,0 +1,46 @@
+[
+{
+    "model": "manage_devices.analogdevice",
+    "pk": 1,
+    "fields": {
+        "mac_address": "mac",
+        "name": "Switch Room 1",
+        "ip": "192.168.100.90",
+        "room": 1,
+        "active": false
+    }
+},
+{
+    "model": "manage_devices.analogdevice",
+    "pk": 2,
+    "fields": {
+        "mac_address": "mac",
+        "name": "Switch Room 2",
+        "ip": "192.168.100.92",
+        "room": 2,
+        "active": false
+    }
+},
+{
+    "model": "manage_devices.analogdevice",
+    "pk": 3,
+    "fields": {
+        "mac_address": "mac",
+        "name": "Switch Room 3",
+        "ip": "192.168.100.93",
+        "room": 3,
+        "active": false
+    }
+},
+{
+    "model": "manage_devices.analogdevice",
+    "pk": 4,
+    "fields": {
+        "mac_address": "mac",
+        "name": "Switch Room 4",
+        "ip": "192.168.100.94",
+        "room": 4,
+        "active": false
+    }
+}
+]
